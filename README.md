@@ -5,3 +5,8 @@ This is a Solo Project assigned as part of the "Learn Javascript for free" cours
 There were a couple of weird issues I needed to work around, especially when dealing with the font-family (e.g. there seemed to be some innate padding associated with the font that was causing issues with centering the score in the container). 
 
 The design matches the assignment fairly closely, though more could absolutely be done in order to approach a more perfect representation. The functionality is as assigned, although I added one additional element: a reset button that resets each score back to zero.
+
+## TODO
+
+1. Work on responsive layout -- it is currently not nearly up to modern web application standards.
+2. Add a timer
